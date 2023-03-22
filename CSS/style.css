@@ -159,8 +159,8 @@ li{
     box-shadow: 0 0 20px #F7B32B;
 }
 footer{
-    height:50px;
-    font-size:20px;
+    height:20px;
+    /* font-size:20px; */
     color:#fff;
     background-color: black;
     text-align: center;
