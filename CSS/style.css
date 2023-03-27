@@ -76,7 +76,7 @@ li{
 .hero{
 
     width:100%;
-    min-height:500px;   
+    min-height:600px;   
     background-color:white;
     display:flex;
     flex-wrap:wrap;
@@ -87,7 +87,7 @@ li{
     height:100%;
 }
 .img{
-    background-image: url("../images/10973.jpg");
+    background-image: url("../images/10973.svg");
     background-size:100% 100%;
     min-height:500px;
     width:50%;
@@ -160,7 +160,6 @@ li{
 }
 footer{
     height:20px;
-    /* font-size:20px; */
     color:#fff;
     background-color: black;
     text-align: center;
